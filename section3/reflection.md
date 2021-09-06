@@ -20,7 +20,7 @@ pet_store = {
    ```   
 
 1. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?   
-`states[IA]`
+`states["IA"]`
 
 1. With the same hash above, how would we get all the keys?  How about all the values?  
 `states.keys` and `states.values`
@@ -29,4 +29,4 @@ pet_store = {
 Hashes can be used to store customer account information. A hash would be much better than an array because it would allow us to use any data type as the key or value and link lots of varying types of information-- as opposed to just having a list of ordered data correlated to an index number only.
 
 1. What questions do you still have about hashes?  
-I think I could just use more practice building them, manipulating them, and calling them in different ways! 
+I think I could just use more practice building them, manipulating them, and calling them in different ways!
