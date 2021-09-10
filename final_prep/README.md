@@ -44,12 +44,12 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:[My Pre Teaching Gist Here!](https://gist.github.com/ParkerLockhart/41a76ff9f7f4331d4ee522defbe7bfb6)
+  - [ ] Add a link to your gist here:[My Pre Teaching Gist!](https://gist.github.com/ParkerLockhart/41a76ff9f7f4331d4ee522defbe7bfb6)
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: [My DTR Gist!](https://gist.github.com/ParkerLockhart/20a7a40c200be0fb8a738f3cbdd5e790)
 
 ## All Done? How to Submit your M1 Prework
 When you have completed *all* the activities described above, follow the steps below to submit your technical prework.
