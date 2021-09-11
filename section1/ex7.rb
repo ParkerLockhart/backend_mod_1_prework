@@ -26,6 +26,3 @@ end12 = "r"
 print end1 + end2 + end3 + end4 + end5 + end6
 #also prints a variable, followed by other variables (all strings as well)
 puts end7 + end8 + end9 + end10 + end11 + end12
-
-#I remember that puts usually separates the printout by a new line (as opposed to print), but maybe this time the variables added overrides that, versus what would happen if you used puts separately with each var ?
-#I'll have to play around with it 

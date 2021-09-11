@@ -60,10 +60,10 @@ def fizzbuzz(num_1, num_2, range)
 end
 
 #calls method fizzbuzz with arguments num_1 = 3, num_2 = 5, and range = 100.
-#program will iterate through numbers 1-100 and print either a remainder, fizz, buzz, or fizzbuzz for each depending on which conditions are met
+#program will iterate through numbers 1-100 and print either the number it is iterating on, fizz, buzz, or fizzbuzz for each depending on which conditions are met
 #fizz = multiples of 3, buzz = multiples of 5, and fizzbuzz = common multiples of both 3 and 5
 fizzbuzz(3, 5, 100)
 #calls method fizzbuzz with arguments num_1 = 5, num_2 = 8, and range = 400.
-#program will iterate through numbers 1-400 and print either a remainder, fizz, buzz, or fizzbuzz for each depending on which conditions met
-#fizz = multiples of 5, buzz = multiples of 8, and fizzbuzz = common multiples of both 5 and 8 
+#program will iterate through numbers 1-400 and print either the number it is iterating on, fizz, buzz, or fizzbuzz for each depending on which conditions met
+#fizz = multiples of 5, buzz = multiples of 8, and fizzbuzz = common multiples of both 5 and 8
 fizzbuzz(5, 8, 400)
